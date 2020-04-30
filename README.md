@@ -1,13 +1,19 @@
-# Project Name
+# More arrays and string methods
+
+Practise assignments
+
+## Installation
+
+Run `npm install`
 
 ## Usage
 
 In the terminal, running the following command
 
-`npm run start`
+`node` followed by the filename. For example, to run the first 
+file type
 
-It will run your code, and any changes you make to your code will automatically
-cause the program to re-run
+`node 1.js`
 
 ## Advanced Usage
 
@@ -53,3 +59,5 @@ Once this is done, create a **Pull Request** from the `solution` branch to the `
 via the GitHub interface.
 
 ## Assignments
+
+See the files numbered `1.js` - `15.js`
